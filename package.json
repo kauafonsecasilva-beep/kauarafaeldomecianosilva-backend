@@ -1,12 +1,21 @@
 {
-  "name": "api-treinos",
+  "name": "kauarafaeldomecianosilva-backend",
   "version": "1.0.0",
-  "description": "API do Diario de Treinos - Back-End I",
-  "main": "servidor.js",
+  "description": "Projeto de **Programação Back-End I** — CEEP Pedro Boaretto Neto Técnico em Desenvolvimento de Sistemas",
+  "main": "banco.js",
   "scripts": {
-    "start": "node servidor.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^4.19.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kauafonsecasilva-beep/kauarafaeldomecianosilva-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kauafonsecasilva-beep/kauarafaeldomecianosilva-backend/issues"
+  },
+  "homepage": "https://github.com/kauafonsecasilva-beep/kauarafaeldomecianosilva-backend#readme"
 }
